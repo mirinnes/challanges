@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@700&display=swap");
+
+// Typography
+$main-font: "Red Hat Text", sans-serif;
+$main-font-size: 14px;
+// Colors
+$primary-light: hsl(0, 0%, 100%);
+$primary-dark: hsl(236, 21%, 26%);
+$primary-dark-alpha: hsla(236, 21%, 26%, 0.666);
+$secondary-black: hsl(235, 16%, 14%);
+$secondary-black-dark: hsl(234, 17%, 12%);
+
+// Bg image
+$bg-url: url("resources/images/bg-stars.svg");
+$bg-mountain-url: url("resources/images/pattern-hills.svg");

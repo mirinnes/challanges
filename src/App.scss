@@ -1,0 +1,59 @@
+@import "common/styles/sass/constants";
+@import "common/styles/sass/mixins";
+
+.App {
+	color: $primary-light;
+	font-size: $main-font-size;
+	letter-spacing: 5px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.main-container {
+	h3 {
+		margin: 10px 0;
+	}
+	.date-container {
+		span {
+			margin: 10px 15px;
+		}
+		@include display(center, center);
+		height: 20vh;
+	}
+	.single-card {
+		margin: 0 10px;
+		width: 10vw;
+		height: 100%;
+		position: relative;
+	}
+	.card {
+		text-align: center;
+		font-size: 60px;
+		overflow: hidden;
+		min-width: 100%;
+		position: absolute;
+		&.dark {
+			z-index: 1;
+			padding-top: 20px;
+			top: -5px;
+			color: palevioletred;
+			background-color: $primary-dark;
+			height: 42%;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px;
+		}
+		&.light {
+			color: pink;
+			background-color: $primary-dark-alpha;
+			height: 65%;
+			bottom: 38px;
+			border-bottom-left-radius: 5px;
+			border-bottom-right-radius: 5px;
+		}
+	}
+	.date-label {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+	}
+}
