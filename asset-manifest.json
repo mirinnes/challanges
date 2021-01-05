@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/challanges.io/static/css/main.35acd6f4.chunk.css",
+    "main.js": "/challanges.io/static/js/main.964637b5.chunk.js",
+    "main.js.map": "/challanges.io/static/js/main.964637b5.chunk.js.map",
+    "runtime-main.js": "/challanges.io/static/js/runtime-main.3332ecbd.js",
+    "runtime-main.js.map": "/challanges.io/static/js/runtime-main.3332ecbd.js.map",
+    "static/js/2.76ab4088.chunk.js": "/challanges.io/static/js/2.76ab4088.chunk.js",
+    "static/js/2.76ab4088.chunk.js.map": "/challanges.io/static/js/2.76ab4088.chunk.js.map",
+    "static/js/3.6e35c9a4.chunk.js": "/challanges.io/static/js/3.6e35c9a4.chunk.js",
+    "static/js/3.6e35c9a4.chunk.js.map": "/challanges.io/static/js/3.6e35c9a4.chunk.js.map",
+    "index.html": "/challanges.io/index.html",
+    "static/css/main.35acd6f4.chunk.css.map": "/challanges.io/static/css/main.35acd6f4.chunk.css.map",
+    "static/js/2.76ab4088.chunk.js.LICENSE.txt": "/challanges.io/static/js/2.76ab4088.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/challanges.io/static/media/pattern-hills.815d688f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3332ecbd.js",
+    "static/js/2.76ab4088.chunk.js",
+    "static/css/main.35acd6f4.chunk.css",
+    "static/js/main.964637b5.chunk.js"
+  ]
+}
